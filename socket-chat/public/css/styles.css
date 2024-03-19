@@ -1,5 +1,8 @@
 @import url("https://fonts.googleapis.com/css?family=Red+Hat+Display:400,500,900&display=swap");
 
+.hidden {
+  display: none;
+}
 
 body, html {
   font-family: Red hat Display, sans-serif;
